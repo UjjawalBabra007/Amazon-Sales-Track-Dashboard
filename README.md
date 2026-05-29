@@ -110,4 +110,4 @@ Developed an interactive Amazon Sales Tracking Dashboard using Power BI by analy
 
 ## Author
 **Ujjawal Babra**
-Aspiring Data Analyst | Power BI | Excel | SQL | Python
+Data Analyst | Power BI | Excel | SQL | Python
