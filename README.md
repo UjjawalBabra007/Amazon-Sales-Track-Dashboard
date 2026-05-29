@@ -94,20 +94,6 @@ This dashboard helps businesses:
 
 ---
 
-## Project Files
-- Amazon Dashboard (.pbix)
-- Dataset Cleaning & Preparation
-- Dashboard Screenshot
-- Project Documentation
-
----
-
-## Resume Description
-
-Developed an interactive Amazon Sales Tracking Dashboard using Power BI by analyzing 120K+ sales records. Performed data cleaning, transformation, and modeling in Excel, including handling missing values, removing duplicates, and optimizing data structure. Created dynamic visualizations to track sales performance, order status, city-wise trends, product categories, and delivery partner efficiency, enabling data-driven business insights.
-
----
-
 ## Author
 **Ujjawal Babra**
 Data Analyst | Power BI | Excel | SQL | Python
