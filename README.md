@@ -1,39 +1,54 @@
 # Amazon Sales Track Dashboard
 
-## Project Overview
-Amazon Sales Track Dashboard is a Power BI project designed to monitor and analyze Amazon sales performance. The dashboard helps businesses track sales across different cities, product categories, delivery partners, and order statuses.
+## Overview
 
-The project uses a dataset of more than 120,000 records collected from Kaggle. Data cleaning, preprocessing, and modeling were performed in Excel before creating interactive visualizations in Power BI.
+Amazon Sales Track Dashboard is a Business Intelligence project developed using Power BI to analyze and monitor Amazon sales performance across different cities, product categories, delivery partners, and order statuses.
 
----
-
-## Project Objective
-The main objective of this project is to provide a clear view of sales performance and order delivery status. It helps stakeholders identify sales trends, monitor logistics performance, and make data-driven business decisions.
+The project is based on a dataset containing more than 1.2 Lakh sales records sourced from Kaggle. The raw data was cleaned, transformed, and modeled in Excel before being visualized through an interactive Power BI dashboard.
 
 ---
 
-## Dataset
+## Objective
+
+The objective of this project is to help businesses track sales performance, monitor order fulfillment, evaluate delivery efficiency, and gain actionable insights for better decision-making.
+
+---
+
+## Dataset Information
+
 - Source: Kaggle
-- Records: 120,000+ Sales Records
-- Domain: E-Commerce / Amazon Sales Data
+- Records: 1.2 Lakh+ Sales Records
+- Industry: E-Commerce
+- Type: Amazon Sales Data
 
 ---
 
-## Data Cleaning & Preparation
-Before creating the dashboard, the dataset was cleaned and transformed using Excel:
+## Data Preparation
+
+The dataset was prepared using Microsoft Excel before dashboard development.
+
+### Data Cleaning Activities
 
 - Removed duplicate records
-- Handled missing values using Mean, Median, and Mode
-- Deleted unnecessary columns
-- Corrected data inconsistencies
-- Applied data filtering and validation
-- Performed data modeling for better analysis
+- Handled missing values
+- Filled blank values using statistical techniques
+- Removed unnecessary columns
+- Corrected inconsistent data entries
+- Applied filtering and validation checks
+- Structured data for analysis and reporting
+
+### Data Modeling
+
+- Organized data into an analysis-ready format
+- Improved data quality and consistency
+- Optimized the dataset for dashboard performance
 
 ---
 
 ## Tools & Technologies
-- Microsoft Excel
+
 - Power BI
+- Microsoft Excel
 - Data Cleaning
 - Data Modeling
 - Data Visualization
@@ -43,57 +58,78 @@ Before creating the dashboard, the dataset was cleaned and transformed using Exc
 
 ## Dashboard Features
 
-### Sales Analysis
-- Track overall sales performance
-- Analyze sales by city
-- Analyze sales by product category
-- Identify top-performing locations
+### Sales Performance Analysis
+- Sales tracking across multiple cities
+- Category-wise sales analysis
+- Top-performing locations identification
+- Sales trend monitoring
 
-### Order Tracking
-- Monitor shipped orders
-- Track unshipped orders
-- Track cancelled orders
-- Monitor orders currently in transit
+### Order Status Monitoring
+- Shipped Orders
+- Unshipped Orders
+- Cancelled Orders
+- Orders In Transit
 
-### Delivery Partner Analysis
-- Compare delivery partner performance
-- Analyze courier activity
-- Evaluate shipment status
+### Delivery & Logistics Analysis
+- Courier partner performance tracking
+- Shipment status monitoring
+- Delivery efficiency analysis
 
-### Interactive Dashboard
+### Interactive Reporting
 - Dynamic filters and slicers
-- Easy-to-understand visualizations
-- Business-friendly insights
-- Real-time analytical view of sales trends
+- User-friendly dashboard design
+- Real-time business insights
+- Interactive visualizations
 
 ---
 
-## Key Insights
-- Identified top-performing cities contributing the highest sales.
-- Compared product category performance across different regions.
-- Analyzed shipment and delivery efficiency.
-- Tracked order status distribution (Shipped, Unshipped, Cancelled, On the Way).
-- Evaluated delivery partner performance to improve logistics operations.
-- Generated actionable insights for business growth and operational efficiency.
+## Key Business Insights
+
+- Identified cities contributing the highest sales revenue.
+- Compared performance across different product categories.
+- Monitored order fulfillment and cancellation trends.
+- Evaluated courier partner efficiency.
+- Analyzed shipment distribution across different order statuses.
+- Generated insights to support operational and business decisions.
 
 ---
 
-## Dashboard Screenshot
+## Dashboard Preview
 
 ![Amazon Dashboard](Amazon.png)
 
 ---
 
-## Business Impact
-This dashboard helps businesses:
-- Monitor sales performance efficiently
+## Business Value
+
+This dashboard helps organizations:
+
+- Monitor sales performance effectively
 - Improve delivery operations
-- Reduce cancelled and delayed orders
+- Track shipment status in real time
+- Reduce operational inefficiencies
 - Understand customer demand patterns
-- Make faster data-driven decisions
+- Support data-driven decision making
+
+---
+
+## Project Files
+
+- Amazon Sales Dashboard (.pbix)
+- Processed Dataset
+- Dashboard Screenshot
+- Project Documentation
 
 ---
 
 ## Author
-**Ujjawal Babra**
-Data Analyst | Power BI | Excel | SQL | Python
+
+### Ujjawal Babra
+
+MBA (IT & Marketing) | Data Analyst
+
+**Skills:** Power BI • SQL • Excel • Statistics • Python • AI Prompt Engineering
+
+GitHub: https://github.com/UjjawalBabra007
+
+LinkedIn: https://www.linkedin.com/in/ujjawal-babra-444853393
